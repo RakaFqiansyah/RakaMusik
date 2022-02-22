@@ -1,20 +1,20 @@
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
+<img src="https://telegra.ph/file/1dec5e5dc365239685d8e.gif">
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/RakamusicGgbot"> Ready-To-Use Bot </a> •
     <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/OfficialYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/Raxsstory"> Support Channel </a> •
+    <a href="https://t.me/mimik_susu1"> Support Chat </a> 
 </p>
     
-# Yukki Music Bot
+# 𝘙𝘢𝘬𝘢 𝘔𝘶𝘪𝘴𝘪𝘤 𝘉𝘰𝘵
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
-Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
+Read [Docs](https://Rakafqiansyah.gitbook.io/RakamusicBot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
 
 > Click on buttons to expand!
 <details>
@@ -25,7 +25,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/string-session)
+- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/RakaMusicBot/deployment/string-session)
     
 </details>
 
@@ -37,7 +37,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Always remeber to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>    
-<p><a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@/RAKASTRINGBOT"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> Generate Session via Telegram StringGen Bot: </h4>    
 <p><a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
@@ -53,7 +53,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://vegetaxd.me/Yukki"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://vegetaxd.me/Raka"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
     
 </details>
 
@@ -66,7 +66,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 ```console
 shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ cd RakaMusicBot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
 ```
@@ -80,15 +80,15 @@ shikhar@MacBook~ $ bash start
 
 ## Config Vars
 
-- Checkout All [Available Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/available-vars)
-- Checkout Only [Mandatory Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars)
-- Checkout Some [Configs](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
+- Checkout All [Available Vars](https://rakafqiansyah.gitbook.io/rakamusik/vars/available-vars)
+- Checkout Only [Mandatory Vars](https://rakafqiansyah.gitbook.io/Rakamusik/vars/mandatory-vars)
+- Checkout Some [Configs](https://rakafqiansyah.gitbook.io/rakamusik/setup-config/config)
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/Raxsstory)
+- [Telegram Support Group](https://t.me/mimik_susu1)
+- [Contact Owner](https://t.me/ImTheLastKinggMs)
 
 
 ## License
