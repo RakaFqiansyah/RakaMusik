@@ -10,7 +10,7 @@
     <a href="https://t.me/mimik_susu1"> Support Chat </a> 
 </p>
     
-# 𝘙𝘢𝘬𝘢 𝘔𝘶𝘪𝘴𝘪𝘤 𝘉𝘰𝘵
+# 𝘙𝘢𝘬𝘢 𝘔𝘶𝘴𝘪𝘤 𝘉𝘰𝘵
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
