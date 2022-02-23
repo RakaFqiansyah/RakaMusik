@@ -54,6 +54,7 @@ Read [Docs](https://Rakafqiansyah.gitbook.io/RakamusicBot/deployment/requirement
     
 <h4>Click the button below to deploy Raka on Heroku!</h4>    
 <p><a href="https://Rakafqiansyah.me/[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/videostream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/RakaFqiansyah/Rakamusik)
 
     
 </details>
